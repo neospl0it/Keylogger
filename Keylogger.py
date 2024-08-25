@@ -5,7 +5,7 @@ import threading
 import requests
 
 # Replace 'WEBHOOK_URL' with your actual Discord webhook URL
-WEBHOOK_URL = 'https://discord.com/api/webhooks/1216438608261677239/f0MN7fyMb-HUP-kyo3eLBM5sRp70HxBu-szh3kq_nYEITgahwCM0jU7W-TcoIudod2-e'
+WEBHOOK_URL = 'YOUR_WEBHOOK_URL'
 
 # Global variables
 messages_to_send = []  # Placeholder for messages to send
